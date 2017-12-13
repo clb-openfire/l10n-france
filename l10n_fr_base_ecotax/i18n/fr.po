@@ -34,7 +34,7 @@ msgstr "Facture"
 #: model:ir.ui.view,arch_db:l10n_fr_base_ecotax.report_invoice_document_inherit_ecotax
 #: model:ir.ui.view,arch_db:l10n_fr_base_ecotax.report_saleorder_document_inherit_ecotax
 msgid "Price including ecotax"
-msgstr "Donc éco-participation de"
+msgstr "Dont éco-participation de"
 
 #. module: l10n_fr_base_ecotax
 #: model:ir.model,name:l10n_fr_base_ecotax.model_product_template
